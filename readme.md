@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Applied Computer Science student @DHBWMannheim<br>💼 Software Engineer - DZ PRIVATBANK S.A<br>
+🎓 Applied Computer Science student - [DHBW Mannheim](https://mannheim.dhbw.de)<br>💼 Software Engineer - [DZ PRIVATBANK S.A](https://dz-privatbank.com)<br>
 
 
 ## 🌐 Socials:
